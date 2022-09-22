@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="logos/logo/light/light-14.png" alt="1337"/><br>
+	<img src="logos.png" alt="1337"/><br>
 </p>
 
 This repository is an overview of what you need to learn in penetration testing and a collection of the necessary tools you can use during your pentesting, and it is also a collection of resources and references to practice offensive security. You can always comeback here, to check if you forgot any step. This will be mainly focused only on Linux machines.
