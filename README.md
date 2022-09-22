@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="light.png" alt="1337"/><br>
+	<img src="light-14.jpg" alt="akasec"/><br>
 </p>
 
 This repository is an overview of what you need to learn in penetration testing and a collection of the necessary tools you can use during your pentesting, and it is also a collection of resources and references to practice offensive security. You can always comeback here, to check if you forgot any step. This will be mainly focused only on Linux machines.
